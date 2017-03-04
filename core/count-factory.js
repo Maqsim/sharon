@@ -7,8 +7,7 @@ module.exports = function (base, parser, parameter) {
       url = location;
     }
 
-    jsonp({
-      url: base + '=' + encodeURIComponent(url),
+    jsonp(base + '=' + encodeURIComponent(url), {
       parameter: parameter
     }, function (err, data) {
       if (err) {
