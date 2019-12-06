@@ -98,6 +98,7 @@ Each sharing platform has its own endpoint under the Sharon API:
 | Twitter          | `sharon.twitter`   |                     | [Reference][params-twitter]   |
 | Vkontakte        | `sharon.vk`        | Yes                 | [Reference][params-vk]        |
 | Weibo            | `sharon.weibo`     |                     |                               |
+| WhatsApp         | `sharon.whatsapp`  |                     |                               |
 | XING             | `sharon.xing`      |                     | [Reference][params-xing]      |
 
 This table also shows which of the platforms support retrieving share counts and links to the share parameters references.

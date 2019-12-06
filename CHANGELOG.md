@@ -1,3 +1,7 @@
+## 1.7.0
+
+Support WhatsApp.
+
 ## 1.6.0
 
 Support Telegram.
