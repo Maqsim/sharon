@@ -1,3 +1,7 @@
+## 2.0.0-beta.2
+
+Support WhatsApp.
+
 ## 2.0.0-beta.1
 
 Return the newly created window from share methods.
